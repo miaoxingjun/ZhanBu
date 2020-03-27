@@ -1,6 +1,13 @@
 import datetime
 import time
 
+"""
+开发者：喵星君大大
+开发日期：2020年3月26日
+微信：minglishi2016
+微信公众号：喵星君大大
+"""
+
 class BaziPaipan(object): #  计算八字排盘
 
     def __init__(self,y,m,d,h):
